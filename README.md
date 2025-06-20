@@ -69,6 +69,5 @@ python evaluate.py
 - [Depthwise Separable Convolution Paper](https://arxiv.org/abs/1704.04861)
 - [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 
-## License
-This project is open-source under the MIT License.
+## License.
 
